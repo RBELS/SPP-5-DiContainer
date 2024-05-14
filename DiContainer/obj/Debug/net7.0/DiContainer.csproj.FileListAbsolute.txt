@@ -1,0 +1,12 @@
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/bin/Debug/net7.0/DiContainer.deps.json
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/bin/Debug/net7.0/DiContainer.dll
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/bin/Debug/net7.0/DiContainer.pdb
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.csproj.AssemblyReference.cache
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.AssemblyInfoInputs.cache
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.AssemblyInfo.cs
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.csproj.CoreCompileInputs.cache
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.dll
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/refint/DiContainer.dll
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/DiContainer.pdb
+/Users/artyom/Documents/study/poit/6sem/spp/DiContainer/DiContainer/obj/Debug/net7.0/ref/DiContainer.dll
